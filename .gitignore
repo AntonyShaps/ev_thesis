@@ -194,4 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 # ignore data folder 
-.data/
+data/
